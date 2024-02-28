@@ -1,0 +1,5 @@
+# ninja log v5
+0	460	7308284136698097	CMakeFiles/git_test.dir/main.cpp.obj	c2d5e5513a890487
+462	570	7308284137742297	git_test.exe	3bc39237d4a9306e
+2	295	7308288680781239	CMakeFiles/git_test.dir/main.cpp.obj	c2d5e5513a890487
+296	393	7308288681726501	git_test.exe	3bc39237d4a9306e

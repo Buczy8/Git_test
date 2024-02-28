@@ -1,0 +1,3 @@
+C:/Users/pawel/Desktop/studia/Semestr 2/Algorytmy i struktury danych/Lab/git_test/cmake-build-debug/CMakeFiles/git_test.dir
+C:/Users/pawel/Desktop/studia/Semestr 2/Algorytmy i struktury danych/Lab/git_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pawel/Desktop/studia/Semestr 2/Algorytmy i struktury danych/Lab/git_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
